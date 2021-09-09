@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'b9d162c5ea5848679034951783a42693',
+  rootNotionPageId: 'a9cc78a1f3304e4496e2993c3303d4b4?v=f63e1718e76c4c1682c4ce460fad8aff',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: '风君子的主页',
-  domain: 'https://small-restaurant-5bb.notion.site/b9d162c5ea5848679034951783a42693',
+  domain: 'https://small-restaurant-5bb.notion.site/a9cc78a1f3304e4496e2993c3303d4b4?v=f63e1718e76c4c1682c4ce460fad8aff',
   author: '风君子',
 
   // open graph metadata (optional)
