@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: '风君子的主页',
-  domain: 'https://www.notion.so/invite/c0a94e51407142df95e2f825edf16581426c82f0',
+  domain: 'https://small-restaurant-5bb.notion.site/b9d162c5ea5848679034951783a42693',
   author: '风君子',
 
   // open graph metadata (optional)
